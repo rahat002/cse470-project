@@ -1,0 +1,10 @@
+
+Omar,internal,non stop,one way trip,bus,Giza,22/03/2018,09:00 pm,6044,306.25
+Omar,external,non stop,round trip,limousine,Iraq,31/03/2018,09:00 pm,6844,212.5
+Ahmed,internal,many stops,one way trip,limousine,Luxor,31/03/2018,06:00 am,2784,150.0
+Ahmed,internal,non stop,one way trip,bus,Giza,16/03/2018,01:00 pm,2987,229.6875
+Ahmed,internal,one stop,one way trip,limousine,Cairo,31/03/2018,05:00 pm,5371,125.0
+test,external,non stop,one way trip,bus,Jordan,Dec 16, 2020,08:00 am,5610,1800.0
+New,internal,non stop,one way trip,bus,Gulshan,Dec 31, 2020,08:00 am,4899,262.5
+test,external,non stop,one way trip,bus,Chitagong,Dec 31, 2020,09:00 am,3625,1200.0
+test,external,non stop,round trip,bus,Chitagong,Dec 31, 2020,09:00 am,3305,1275.0
